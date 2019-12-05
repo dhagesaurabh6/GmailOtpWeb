@@ -1,3 +1,8 @@
+******************* Turn on less secure mail app access on gmail    ******************************
+https://myaccount.google.com/u/1/security
+----------------------------------------------------------------------------------------------------
+
+
 To test:
 ----------------------------------------------------------
 first launch : http://localhost:8080//generateAlert
