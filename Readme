@@ -1,21 +1,27 @@
 To test:
-
+----------------------------------------------------------
 first launch : http://localhost:8080//generateAlert
+
+Click on generate Alert.
 (Whitelabel errror page will open, close and open gmail)
 
 Open Gmail click on link
 
-Click: 'Click to generete OTP' button and wait, open Gmail for OTP
+On webPage Click: 'Click to generete OTP' button and wait, open Gmail for OTP
 
-Enter OTP and othe data
+Enter OTP and othe data on webpage
 
-Open database to verify
+Open database to verify data
+--------------------------------------------------------
 
 To change recepient address: file Name:webController.java  line:143
 
 To change sender address: file Name:webController.java  line:144
 
+-------------------------------------------------------------
+
 After Submit:
 
 The otp is matched and Status is checked and if it is 'NO_ACTION_TAKEN' then only the action is updated othewise error webpage is shown.
 
+---------------------------------------------------------
