@@ -22,6 +22,6 @@ To change sender address: file Name:webController.java  line:144
 
 After Submit:
 
-The otp is matched and Status is checked and if it is 'NO_ACTION_TAKEN' then only the action is updated othewise error webpage is shown.
+The otp is matched and Status is checked and if it is 'not_verfied' then only the action is updated othewise error webpage is shown.
 
 ---------------------------------------------------------
